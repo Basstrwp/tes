@@ -45,7 +45,7 @@ global.sig = 'https://instagram.com/me_kyluesky'
 global.sgh = 'https://beacons.ai/chisato'
 global.sgc = 'https://chat.whatsapp.com/Jb0cOus52qvC2PQIvTbANQ'
 global.sdc = 'https://t.me/kylueskyy'
-global.snh = 'https://beacons.ai/chisato
+global.snh = 'https://beacons.ai/chisato'
 
 /*============== PAYMENT ==============*/
 global.pdana = '085808936396'
